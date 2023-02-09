@@ -1,0 +1,1302 @@
+[
+    {
+        "price": 89365,
+        "address": "Ca\u00f1ada Maite Herrera 12 Puerta 3 \nAlmer\u00eda, 07483",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34 708 947 851",
+        "contact": "Coral Rubio Serna",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 550432,
+        "address": "Pasaje Samanta Alfonso 384 Apt. 65 \nSegovia, 17489",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34885 841 198",
+        "contact": "Azahar Ca\u00f1ete Bertr\u00e1n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 706615,
+        "address": "Avenida de Remigio Palomo 75\nCeuta, 09329",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34852 917 207",
+        "contact": "Cesar Ferr\u00e1ndez Bayo",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 67372,
+        "address": "Plaza Severiano Acevedo 4\nJa\u00e9n, 15827",
+        "rooms": 1,
+        "baths": 1,
+        "phone": "+34842 39 11 05",
+        "contact": "Olimpia Bayona Mari\u00f1o",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 309909,
+        "address": "Plaza Benigno Pla 124 Puerta 3 \nLas Palmas, 45262",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34822206375",
+        "contact": "Hilda Nayara Feliu Guillen",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 734829,
+        "address": "Urbanizaci\u00f3n Guiomar Calatayud 39\nLleida, 23629",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34 854 972 874",
+        "contact": "Antonio del Ferr\u00e1n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 288461,
+        "address": "Camino Juan Jos\u00e9 Perera 27 Apt. 54 \nBadajoz, 30367",
+        "rooms": 5,
+        "baths": 3,
+        "phone": "+34922093631",
+        "contact": "Micaela Frutos",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 476991,
+        "address": "Ronda Tadeo Lled\u00f3 533\nCiudad, 29427",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34856 330 911",
+        "contact": "Trinidad Rocha Rivera",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 943539,
+        "address": "Vial de Patricia Ar\u00e9valo 80\nVizcaya, 27471",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34 974500110",
+        "contact": "Teodora S\u00e1nchez Pont",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 52740,
+        "address": "Glorieta de Dionisio Egea 6\n\u00c1lava, 08608",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34828 403 476",
+        "contact": "Fernando Paredes Arag\u00f3n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 619332,
+        "address": "Ca\u00f1ada Eli Rubio 350\nGirona, 14800",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34 718272259",
+        "contact": "C\u00e1ndida Bello",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 413995,
+        "address": "Acceso de Alejo Sala 65\nCeuta, 31028",
+        "rooms": 1,
+        "baths": 3,
+        "phone": "+34 885 331 892",
+        "contact": "Norberto Sans Amador",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 354446,
+        "address": "Cuesta de Ale Vilanova 4 Piso 2 \nNavarra, 31855",
+        "rooms": 2,
+        "baths": 1,
+        "phone": "+34925 475 541",
+        "contact": "Norberto Riquelme Tom\u00e9",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 85122,
+        "address": "Pasadizo Jos\u00e9 \u00c1ngel Alegria 38\nBadajoz, 13957",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34878 05 83 57",
+        "contact": "Ximena Santiago",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 879246,
+        "address": "Plaza Trinidad Marti 551 Puerta 4 \nC\u00e1diz, 49967",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 945 133 765",
+        "contact": "Ignacio Mar\u00edn Moles",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 156841,
+        "address": "Pasadizo de Narcisa Est\u00e9vez 305\nBaleares, 26019",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34 925264796",
+        "contact": "Rosario Madrigal-Iniesta",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 930851,
+        "address": "Glorieta de Chus Gallego 953\nAsturias, 36856",
+        "rooms": 4,
+        "baths": 2,
+        "phone": "+34965 04 94 66",
+        "contact": "Fidel del Barba",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 771908,
+        "address": "Urbanizaci\u00f3n de B\u00e1rbara Caballero 38\n\u00c1vila, 43212",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34971 76 51 38",
+        "contact": "Candelas Bayo Ad\u00e1n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 783861,
+        "address": "Rambla de Eva Neira 2\nAlmer\u00eda, 29801",
+        "rooms": 1,
+        "baths": 3,
+        "phone": "+34 984819042",
+        "contact": "Cesar Cipriano Mor\u00e1n Iborra",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 81802,
+        "address": "Cuesta Manuela Ju\u00e1rez 1 Piso 0 \nC\u00f3rdoba, 30191",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34 831 449 505",
+        "contact": "Natalia Carretero Canals",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 480290,
+        "address": "Acceso Olga Almaz\u00e1n 130 Apt. 07 \nHuesca, 04128",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34 973 398 034",
+        "contact": "Eleuterio Amaya C\u00e9spedes",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 40372,
+        "address": "Alameda Sancho Oliv\u00e9 33\nCantabria, 23342",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34 988 428 388",
+        "contact": "Sarita R\u00edos Ribas",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 181634,
+        "address": "Pasadizo Noelia Donoso 76 Piso 8 \nNavarra, 43944",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34980 93 88 23",
+        "contact": "Piedad Bauz\u00e0 Cuadrado",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 603653,
+        "address": "Via de Leopoldo Ferrera 8\nJa\u00e9n, 34760",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34 712726312",
+        "contact": "Trinidad Vall\u00e9s Milla",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 55370,
+        "address": "Callej\u00f3n Ang\u00e9lica Puente 5\nTeruel, 33675",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34922 02 59 20",
+        "contact": "Chita Polo-Dalmau",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 613434,
+        "address": "Via Jer\u00f3nimo Montoya 16\nLugo, 18061",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34 881113876",
+        "contact": "Anacleto Riera Segovia",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 410414,
+        "address": "Vial de Vera Guardiola 192\nCantabria, 42285",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34943 132 544",
+        "contact": "Aurora Juan",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 485577,
+        "address": "Avenida de Jose Carlos Laguna 35 Piso 9 \nGranada, 41257",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34 827 21 45 64",
+        "contact": "Florentino Bartolom\u00e9-Lopez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 98347,
+        "address": "Via de Maristela Carpio 38\nSevilla, 25065",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34 803 23 85 52",
+        "contact": "Rosendo Ferrera Miguel",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 140153,
+        "address": "Plaza de Angelina Pati\u00f1o 98\nBaleares, 15292",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34 888 502 198",
+        "contact": "Toni Company Aznar",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 476260,
+        "address": "C. Donato Arranz 3 Puerta 1 \nLugo, 40873",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34 980 49 29 62",
+        "contact": "Isaura Villa-Carlos",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 353793,
+        "address": "Plaza Demetrio Folch 1 Piso 6 \nCastell\u00f3n, 27977",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34926 111 445",
+        "contact": "Candelas del Alsina",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 236227,
+        "address": "Ronda de C\u00e1ndida Mata 27 Apt. 90 \nHuesca, 18670",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34987166728",
+        "contact": "Maximino Pe\u00f1a Agust\u00edn",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 551101,
+        "address": "Calle Genoveva Vallejo 25\nGuadalajara, 33566",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34855 65 77 93",
+        "contact": "Graciela Aguilar Herrera",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 123845,
+        "address": "Plaza de Florencio Mulet 63\nVizcaya, 41103",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34 845 07 82 33",
+        "contact": "Jaime Felipe Santos Palau",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 245043,
+        "address": "Acceso de Gregorio Mora 8 Piso 1 \nAlbacete, 33458",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34745 312 728",
+        "contact": "Felipe Guardia Aguilar",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 326570,
+        "address": "Plaza Flor Reig 93\nTeruel, 18250",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34 731 340 183",
+        "contact": "C\u00e1ndida Cepeda Olmo",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 319648,
+        "address": "Ronda Manu Escobar 15\n\u00c1vila, 32684",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34728346887",
+        "contact": "Calixto Godoy Ramis",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 887010,
+        "address": "Vial de Jessica Lucas 891\nVizcaya, 26234",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34 982 45 19 61",
+        "contact": "Ricardo Bartolom\u00e9 Escribano",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 937621,
+        "address": "Avenida de Rico Montero 47 Piso 4 \nCeuta, 23925",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34872 332 334",
+        "contact": "Mar de Mill\u00e1n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 438382,
+        "address": "Ronda Bernardita Cuevas 67 Piso 2 \nBaleares, 46230",
+        "rooms": 2,
+        "baths": 1,
+        "phone": "+34963 64 06 98",
+        "contact": "Ariel J\u00f3dar Corral",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 104254,
+        "address": "Paseo Rosal\u00eda Segu\u00ed 559\nC\u00f3rdoba, 06763",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34871 37 68 46",
+        "contact": "Mar Portero-Alcaraz",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 848906,
+        "address": "Plaza Francisco Jose Clemente 50 Apt. 88 \nGuip\u00fazcoa, 20311",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34922 432 349",
+        "contact": "Rosalina Casares Landa",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 551035,
+        "address": "Glorieta de Miguela Pujadas 152\nBurgos, 26952",
+        "rooms": 1,
+        "baths": 1,
+        "phone": "+34 944 16 78 51",
+        "contact": "Agustina Fiol Pel\u00e1ez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 379172,
+        "address": "Cuesta de Rafael Calatayud 534\nCantabria, 21407",
+        "rooms": 1,
+        "baths": 3,
+        "phone": "+34 736324065",
+        "contact": "Hern\u00e1n Fidel Maestre Escolano",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 504438,
+        "address": "Pasaje Julio C\u00e9sar Coca 32 Puerta 0 \nLe\u00f3n, 50724",
+        "rooms": 4,
+        "baths": 1,
+        "phone": "+34811 71 71 71",
+        "contact": "Juan Manuel Catal\u00e1-G\u00e1lvez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 219413,
+        "address": "Cuesta Emilio Barba 50\nAsturias, 15334",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34920430343",
+        "contact": "Olga de Flor",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 649419,
+        "address": "Callej\u00f3n de Beatriz Azorin 4\nGirona, 15564",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34886430093",
+        "contact": "Edgardo Verdugo Ropero",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 963639,
+        "address": "Acceso Alejandra Mendiz\u00e1bal 4\nToledo, 19346",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34944 71 10 92",
+        "contact": "Roberto Agust\u00edn Jara Poza",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 903562,
+        "address": "Vial de Judith Moles 28\nSanta Cruz de Tenerife, 08216",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34979 453 370",
+        "contact": "Febe Calvo-Pedraza",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 767127,
+        "address": "Calle Juanita Acu\u00f1a 96 Apt. 67 \nCastell\u00f3n, 34967",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34981 78 85 88",
+        "contact": "Prudencia Nu\u00f1ez Carlos",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 690862,
+        "address": "Pasaje Cl\u00edmaco Guardia 6 Puerta 8 \nSanta Cruz de Tenerife, 31214",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34946 56 23 18",
+        "contact": "Leire Montenegro Montoya",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 952039,
+        "address": "Ca\u00f1ada de Ceferino Royo 37 Piso 3 \nCantabria, 32656",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34 820 38 44 32",
+        "contact": "Ale Blasco",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 787901,
+        "address": "Urbanizaci\u00f3n Leocadia Jimenez 29 Puerta 7 \nC\u00e1diz, 51852",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34813 21 96 88",
+        "contact": "\u00c1ngeles Espinosa Ram\u00edrez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 351271,
+        "address": "Paseo Paca Garrido 53\nSegovia, 34253",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34837 85 47 76",
+        "contact": "Alberto Mendoza Gimenez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 13783,
+        "address": "Paseo Almudena Acero 95 Piso 7 \nBarcelona, 41903",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34874520753",
+        "contact": "Francisco Valenciano-Zapata",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 873790,
+        "address": "Acceso de Javi Blanch 854\nZamora, 14707",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34734 403 109",
+        "contact": "Victor Manuel Salmer\u00f3n Roura",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 55791,
+        "address": "Alameda de H\u00e9ctor Soriano 11 Apt. 31 \nLa Rioja, 19259",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34920971300",
+        "contact": "Leire Macias-Luj\u00e1n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 71939,
+        "address": "Rambla Roberto Hoyos 73 Puerta 0 \nSanta Cruz de Tenerife, 18496",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34 807 55 28 51",
+        "contact": "Delia Godoy",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 803505,
+        "address": "Avenida Teodoro Santos 4 Apt. 36 \nValladolid, 20346",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34883 85 36 09",
+        "contact": "Ainoa Carro Cerd\u00e1",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 468939,
+        "address": "Ca\u00f1ada Manola Puente 3 Apt. 10 \nM\u00e1laga, 09973",
+        "rooms": 1,
+        "baths": 1,
+        "phone": "+34925542885",
+        "contact": "Mar\u00eda Luisa Amaya Alfonso",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 224870,
+        "address": "Rambla de Alma Due\u00f1as 63\nSegovia, 35316",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34948 80 86 06",
+        "contact": "Lorenza de Escribano",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 889256,
+        "address": "Pasaje de Am\u00e9rica Casanova 5\nSalamanca, 41889",
+        "rooms": 2,
+        "baths": 3,
+        "phone": "+34972 478 281",
+        "contact": "Ildefonso Otero",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 414023,
+        "address": "Paseo de Mariana Amores 1\nC\u00e1ceres, 47247",
+        "rooms": 3,
+        "baths": 3,
+        "phone": "+34874959282",
+        "contact": "Lidia Flavia C\u00e9spedes Cuenca",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 237614,
+        "address": "Acceso Georgina Alegre 93 Apt. 51 \nGuip\u00fazcoa, 38384",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 824 73 98 86",
+        "contact": "Nazaret Gomila Armas",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 162387,
+        "address": "Cuesta de Xiomara Mar\u00ed 35 Puerta 8 \nBarcelona, 26596",
+        "rooms": 2,
+        "baths": 1,
+        "phone": "+34 823042633",
+        "contact": "Gilberto Pascual Ord\u00f3\u00f1ez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 469504,
+        "address": "Vial de Saturnina Espa\u00f1ol 96 Piso 3 \nMelilla, 17134",
+        "rooms": 5,
+        "baths": 1,
+        "phone": "+34 943 87 75 74",
+        "contact": "Eduardo Palomino Riba",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 903741,
+        "address": "Plaza de Jose Pedraza 5 Puerta 9 \nLas Palmas, 23929",
+        "rooms": 1,
+        "baths": 3,
+        "phone": "+34820 006 817",
+        "contact": "Lorenza del Exp\u00f3sito",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 931188,
+        "address": "Alameda Modesta Agust\u00edn 15 Puerta 3 \nLugo, 12687",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34982 29 19 18",
+        "contact": "Cirino Ortega Izaguirre",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 297919,
+        "address": "Glorieta de Mohamed Hervia 67 Puerta 2 \nAlmer\u00eda, 17859",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 820 07 65 41",
+        "contact": "Octavia Cerezo G\u00f3mez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 695638,
+        "address": "Pasaje de Camila Checa 41\nC\u00e1ceres, 17408",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34 973 84 03 85",
+        "contact": "Mar\u00eda Teresa Ferrando Garz\u00f3n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 235604,
+        "address": "Ca\u00f1ada de Trinidad Alba 28 Apt. 11 \nHuelva, 13482",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 988 918 365",
+        "contact": "Hilda Duque Costa",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 705183,
+        "address": "Camino Bibiana Nogueira 4 Piso 7 \nAsturias, 06427",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34873 98 23 88",
+        "contact": "Primitivo Pati\u00f1o Pascual",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 95051,
+        "address": "Urbanizaci\u00f3n Narcisa Ballesteros 12 Apt. 85 \nGuip\u00fazcoa, 01051",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34849 44 45 01",
+        "contact": "Antonia Orozco",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 113938,
+        "address": "Cuesta de Paco Mir\u00f3 73\nHuesca, 28460",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34878883591",
+        "contact": "Mar\u00eda Manuela Cabezas Rueda",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 353264,
+        "address": "Avenida de Melchor Balaguer 2 Apt. 17 \nHuesca, 21070",
+        "rooms": 4,
+        "baths": 1,
+        "phone": "+34981 23 37 99",
+        "contact": "Eva Reina-Mas",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 240083,
+        "address": "Glorieta Esther Blazquez 180\nBurgos, 27256",
+        "rooms": 5,
+        "baths": 3,
+        "phone": "+34 841 89 66 80",
+        "contact": "Renato Lopez Aroca",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 283416,
+        "address": "Plaza de Daniela Bustos 36 Apt. 31 \nOurense, 40852",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34 977449280",
+        "contact": "Hector Porcel Romero",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 866525,
+        "address": "C. Saturnino Balaguer 4 Piso 9 \nLa Coru\u00f1a, 49507",
+        "rooms": 4,
+        "baths": 2,
+        "phone": "+34 879 230 099",
+        "contact": "Am\u00edlcar Robledo Galiano",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 664442,
+        "address": "Plaza Carolina Lloret 96 Piso 5 \nToledo, 45071",
+        "rooms": 4,
+        "baths": 2,
+        "phone": "+34886238197",
+        "contact": "Silvestre Mari\u00f1o Trillo",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 73461,
+        "address": "Plaza de Josefa Zorrilla 76\nLas Palmas, 30290",
+        "rooms": 1,
+        "baths": 3,
+        "phone": "+34847720750",
+        "contact": "Valentina Bernad",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 94043,
+        "address": "Callej\u00f3n de Vanesa Gomis 5\nMadrid, 43272",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34926 566 830",
+        "contact": "\u00c1ngela Cardona",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 294137,
+        "address": "Pasadizo Ana Bel\u00e9n Plana 151 Piso 5 \nSoria, 50362",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34 875067662",
+        "contact": "Anastasia Aguilar",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 77659,
+        "address": "Callej\u00f3n de Asdrubal Somoza 478 Puerta 1 \nBarcelona, 03117",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34 848 302 768",
+        "contact": "Leyre del Azcona",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 670866,
+        "address": "Urbanizaci\u00f3n de Clementina Alegria 14\nLas Palmas, 42116",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 847 87 25 56",
+        "contact": "Chuy Onofre Torrecilla Ib\u00e1\u00f1ez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 517507,
+        "address": "Camino de Leandro Lobo 7\nCastell\u00f3n, 34729",
+        "rooms": 2,
+        "baths": 1,
+        "phone": "+34901 62 63 42",
+        "contact": "Bonifacio Vaquero Rinc\u00f3n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 180937,
+        "address": "Ca\u00f1ada de Esperanza Ayala 582 Apt. 92 \nGranada, 48800",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34846 98 19 73",
+        "contact": "Baltasar Gasc\u00f3n Pe\u00f1alver",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 419039,
+        "address": "Rambla de Encarnacion Jaume 519\nGranada, 48462",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34 875 652 039",
+        "contact": "Martina Garc\u00eda-Gimenez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 676130,
+        "address": "Paseo Vilma Pera 81\nLleida, 38854",
+        "rooms": 4,
+        "baths": 2,
+        "phone": "+34747 149 588",
+        "contact": "Florencio de Abascal",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 476064,
+        "address": "Acceso de Maura Pont 549 Piso 6 \nAlmer\u00eda, 14580",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34 878 515 135",
+        "contact": "Valeria Ibarra",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 5
+        }
+    },
+    {
+        "price": 362868,
+        "address": "Vial Florencia Egea 32 Piso 0 \nC\u00f3rdoba, 40429",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34922 529 991",
+        "contact": "Juan Pablo Higueras Comas",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 545155,
+        "address": "Callej\u00f3n Primitivo Sotelo 787\nSoria, 48169",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34 921 09 96 64",
+        "contact": "Modesta Uriarte M\u00e9ndez",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 815817,
+        "address": "Callej\u00f3n Eliana Oliv\u00e9 75 Apt. 73 \nMadrid, 05382",
+        "rooms": 3,
+        "baths": 1,
+        "phone": "+34944 00 78 27",
+        "contact": "Julio Perell\u00f3 Ant\u00f3n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 445947,
+        "address": "Via Teodoro Blanes 295\nMelilla, 34713",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34 971 984 030",
+        "contact": "Nadia Mar\u00eda \u00c1ngeles Gracia Exposito",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "price": 591225,
+        "address": "Calle de Fulgencio Sebasti\u00e1n 45 Apt. 12 \nPontevedra, 49800",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34921 746 189",
+        "contact": "Gregorio Tur Ram\u00f3n",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 2
+        }
+    },
+    {
+        "price": 784298,
+        "address": "Ronda de Urbano Bonet 47\nMurcia, 33847",
+        "rooms": 1,
+        "baths": 2,
+        "phone": "+34920084417",
+        "contact": "Ib\u00e1n de Carbonell",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 885881,
+        "address": "Plaza de Francisco Go\u00f1i 79\nC\u00e1ceres, 50044",
+        "rooms": 2,
+        "baths": 2,
+        "phone": "+34 873187755",
+        "contact": "Silvestre Sanjuan Lorenzo",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    },
+    {
+        "price": 354143,
+        "address": "Avenida de Andr\u00e9s Estevez 83\nCeuta, 24146",
+        "rooms": 3,
+        "baths": 2,
+        "phone": "+34 988 28 69 45",
+        "contact": "Mar\u00eda Carmen Castell Salv\u00e0",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "price": 446493,
+        "address": "Pasaje Rosa Peralta 67\nLa Coru\u00f1a, 06898",
+        "rooms": 4,
+        "baths": 3,
+        "phone": "+34712559177",
+        "contact": "Petrona Santiago Haro",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 3
+        }
+    },
+    {
+        "price": 990304,
+        "address": "Vial Delfina Riba 94\nValencia, 35928",
+        "rooms": 5,
+        "baths": 2,
+        "phone": "+34987547494",
+        "contact": "Joaquina Landa",
+        "last_updated": {
+            "year": 2023,
+            "month": 2,
+            "day": 6
+        }
+    }
+]
