@@ -38,6 +38,6 @@ for _ in range(10000):
     h = House()
     data.append(h)
 
-with open('database2.json', 'w', encoding='utf-8') as f:
+with open('database3.json', 'w', encoding='utf-8') as f:
     json_object = json.dumps(data, indent=4, cls=EmployeeEncoder, default=json_default)
     f.write(json_object)

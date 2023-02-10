@@ -21,6 +21,9 @@ def search(request_data):
     else:
         text = f"He encontrado {len(data)} pisos"
 
+    if len(data) > 50:
+        text += ". He limitado la búsqueda a los 50 primeros."
+
     response = {
         "session": {
             "id": request_data['session']['id']
@@ -44,7 +47,8 @@ def search(request_data):
         ]
     else:
         response['session']['params']['current'] = 0
-        response['session']['params']['data'] = data
+        maxim = min(50, len(data))
+        response['session']['params']['data'] = data[:maxim]
         response["prompt"]["suggestions"] = [
             {"title": "Otra búsqueda"},
             {"title": "Ver resultados"}
